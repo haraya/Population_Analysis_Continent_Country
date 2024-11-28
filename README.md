@@ -6,13 +6,13 @@ This project focuses on analyzing global population data using Power BI. The mai
 
 # Requirements:
 The Excel files to be used are:  
-Countries.xlsx  
-Paises.xlsx  
-Population.xlsx  
+➡️ Countries.xlsx  
+➡️ Paises.xlsx  
+➡️ Population.xlsx  
   
 # Tools
-Power BI  
-Excel
+➡️ Power BI  
+➡️ Excel
 
 
 # Author
